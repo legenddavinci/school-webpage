@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div.can{
+    background-color: black;
+    /* margin-left: 30px; */
+}
+.can p{
+    text-align: center;
+    color: yellow;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 15px;
+    
+    
+}
+i{
+    display: flex;
+    justify-content: center;
+    color:whitesmoke;
+    
+}
+.dane{
+    
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    
+    
+}
+.dane p{
+    font-size: 10px;
+    color:yellowgreen;
+    padding: 10px;
+    /* border: 2px solid red; */
+}
+
+img{
+    width: 100vw;
+}
+
+div.on{
+    position: relative;
+
+}
+.on nav{
+    position: absolute;
+    bottom: 770px;
+    color:yellow;
+    left: 670px;
+    font-size: 23px;
+    font-weight: bold;
+}
+.on h1{
+    position: absolute;
+    bottom: 640px;
+    color:orange;
+    left: 440px;
+    font-size: 70px;
+    font-weight: bold;
+    
+
+}
+
+.on span{
+    color: yellowgreen;
+}
+
+.on header{
+    position: absolute;
+    bottom: 600px;
+    color:rgba(224, 224, 13, 0.966);
+    left: 670px;
+    font-size: 23px;
+    font-weight: bold;
+
+}
+
+.da{
+    position: relative;
+}
+.da p{
+    position: absolute;
+    bottom: 530px;
+    left: 600px;
+    color: orange;
+    font-size:12px;
+    font-weight: bold;
+}
